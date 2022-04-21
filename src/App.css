@@ -17,9 +17,9 @@
   display: flex;
   flex-direction: row;
   animation: fade-in 2.5s;
-  width: calc((12px + 2vmin) * 15);
+  width: calc((12px + 2vmin) * 10);
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 @keyframes fade-in {
